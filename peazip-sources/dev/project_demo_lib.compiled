@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1621181457"/>
+  <Params Value=" -MObjFPC -Scgi -O1 -gw3 -gl -k-framework -kCocoa -l -vewnhibq -Fu/Users/ningjinpeng/.lazarus/lib/units/x86_64-darwin/cocoa -Fu/Users/ningjinpeng/.lazarus/lib/LCLBase/units/x86_64-darwin -Fu/Users/ningjinpeng/.lazarus/lib/freetypelaz/lib/x86_64-darwin -Fu/Users/ningjinpeng/.lazarus/lib/LazUtils/lib/x86_64-darwin -Fu/Users/ningjinpeng/.lazarus/lib/units/x86_64-darwin -Fu/Users/ningjinpeng/Desktop/git/private/bytedesk-vue3/xxstudylog/PeaZip/peazip-sources/dev/ -o/Users/ningjinpeng/Desktop/git/private/bytedesk-vue3/xxstudylog/PeaZip/peazip-sources/dev/demo_lib -dLCL -dLCLcocoa project_demo_lib.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

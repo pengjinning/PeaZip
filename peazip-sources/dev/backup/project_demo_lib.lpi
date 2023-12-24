@@ -34,11 +34,11 @@
         <PackageName Value="LCL"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="8">
+    <Units Count="7">
       <Unit0>
         <Filename Value="project_demo_lib.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="4"/>
+        <EditorIndex Value="3"/>
         <CursorPos X="27" Y="11"/>
         <UsageCount Value="33"/>
         <Loaded Value="True"/>
@@ -51,8 +51,8 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit_demo_lib"/>
-        <TopLine Value="71"/>
-        <CursorPos X="61" Y="81"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="103" Y="22"/>
         <UsageCount Value="33"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -64,9 +64,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit_pea"/>
-        <EditorIndex Value="5"/>
-        <TopLine Value="8006"/>
-        <CursorPos Y="8040"/>
+        <EditorIndex Value="4"/>
         <UsageCount Value="31"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -74,7 +72,7 @@
       <Unit3>
         <Filename Value="list_utils.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="2"/>
         <UsageCount Value="32"/>
         <Loaded Value="True"/>
       </Unit3>
@@ -94,39 +92,13 @@
       </Unit5>
       <Unit6>
         <Filename Value="unit_demo_lib.lfm"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="1"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="LFM"/>
       </Unit6>
-      <Unit7>
-        <Filename Value="..\..\..\..\..\..\..\..\..\..\Applications\Lazarus\lcl\interfaces\cocoa\cocoawsbuttons.pas"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="11"/>
-        <CursorPos X="44" Y="19"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit7>
     </Units>
-    <JumpHistory Count="4" HistoryIndex="3">
-      <Position1>
-        <Filename Value="unit_demo_lib.pas"/>
-        <Caret Line="22" Column="103"/>
-      </Position1>
-      <Position2>
-        <Filename Value="..\..\..\..\..\..\..\..\..\..\Applications\Lazarus\lcl\interfaces\cocoa\cocoawsbuttons.pas"/>
-        <Caret Line="31" Column="52" TopLine="11"/>
-      </Position2>
-      <Position3>
-        <Filename Value="unit_pea.pas"/>
-        <Caret Line="8034" TopLine="8006"/>
-      </Position3>
-      <Position4>
-        <Filename Value="unit_pea.pas"/>
-        <Caret Line="239" Column="20" TopLine="219"/>
-      </Position4>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
   </ProjectOptions>
   <CompilerOptions>
     <Version Value="11"/>
@@ -154,7 +126,7 @@
     </Linking>
   </CompilerOptions>
   <Debugging>
-    <BreakPoints Count="6">
+    <BreakPoints Count="5">
       <Item1>
         <Kind Value="bpkSource"/>
         <WatchScope Value="wpsGlobal"/>
@@ -190,13 +162,6 @@
         <Source Value="..\..\PEACH\unitpea.pas"/>
         <Line Value="663"/>
       </Item5>
-      <Item6>
-        <Kind Value="bpkSource"/>
-        <WatchScope Value="wpsLocal"/>
-        <WatchKind Value="wpkWrite"/>
-        <Source Value="unit_pea.pas"/>
-        <Line Value="8040"/>
-      </Item6>
     </BreakPoints>
   </Debugging>
 </CONFIG>
